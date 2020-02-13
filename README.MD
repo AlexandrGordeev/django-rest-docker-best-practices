@@ -8,9 +8,7 @@
 6. Base project configuration: app structure
 
 # Install
-docker compose up and ...
-
-# That's all. Enjoy your dev process as well
+docker compose up
 
 ### Jet Admin
 http://jet.geex-arts.com/
